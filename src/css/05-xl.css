@@ -1,0 +1,54 @@
+/* XL ≥1200px */
+
+@media screen and (min-width: 1200px) {
+
+    .pagination {
+    
+    }
+
+    .pagination .dot {
+
+    }
+
+    .pagination .pagination-bottom {
+
+    }
+
+    .pagination .pagination-top {
+
+    }
+
+    .pagination .pagination-left {
+
+    }
+
+    .pagination .pagination-right {
+
+    }
+
+    .slider {
+
+    }
+
+    .slider .slides-container {
+        width: 100%;
+    }
+    
+
+    .slider .slides-container .slide {
+        /*width: 100%;*/
+    }
+
+    .slider .slides-container .slides-track {
+        width: 100%;
+    }
+
+}
+
+@media screen and (orientation: landscape) {
+
+    .slider .slides-container .slide {
+        width: 100%;
+    }
+
+}

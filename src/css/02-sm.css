@@ -1,0 +1,42 @@
+
+/* SM ≥576px */
+
+@media screen and (min-width: 576px) {
+
+    .pagination {
+
+    }
+
+    .pagination .dot {
+
+    }
+
+    .pagination .pagination-bottom {
+
+    }
+
+    .pagination .pagination-top {
+
+    }
+
+    .pagination .pagination-left {
+
+    }
+
+    .pagination .pagination-right {
+
+    }
+
+    .slider {
+
+    }
+
+    .slider .slides-container {
+    
+    }
+
+    .slider .slides-container .slide {
+
+    }
+
+}

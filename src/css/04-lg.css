@@ -1,0 +1,49 @@
+/* LG ≥992px */
+
+@media screen and (min-width: 992px) {
+
+    .pagination {
+
+    }
+
+    .pagination .dot {
+
+    }
+
+    .pagination.pagination-bottom {
+
+        height: calc(100vh * 0.1);
+
+    }
+
+    .pagination.pagination-top {
+
+    }
+
+    .pagination.pagination-left {
+
+    }
+
+    .pagination.pagination-right {
+
+    }
+
+    .slider {
+
+    }
+
+    .slider .slides-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }   
+
+    .slider .slides-container .slides-scroll {
+        display: inline-flex;
+    }
+
+    .slider .slides-container .slide {
+            
+    }
+
+}

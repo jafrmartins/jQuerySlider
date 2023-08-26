@@ -1,0 +1,40 @@
+:root {
+
+    --rs-xs: 576px; /* XS <576px */
+    --rs-sm: 576px; /* SM ≥576px */
+    --rs-md: 768px; /* MD ≥768px */
+    --rs-lg: 992px; /* LG ≥992px */
+    --rs-xl: 1200px; /* XL ≥1200px */
+    --rs-xxl: 1400px; /* XXL ≥1400px */
+
+    --pagination-inactive-color: #cdcdcd;
+    --pagination-active-color: goldenrod;
+    --pagination-radius: 15px;
+    --pagination-margin: 15px;
+    
+    --xs-portrait-num-items: 3;
+    --xs-landscape-num-items: 1;
+    
+    --sm-portrait-num-items: 3;
+    --sm-landscape-num-items: 1;
+    
+    --md-portrait-num-items: 3;
+    --md-landscape-num-items: 1;
+    
+    --lg-portrait-num-items: 3;
+    --lg-landscape-num-items: 1;
+    
+    --xl-portrait-num-items: 3;
+    --xl-landscape-num-items: 1;
+    
+    --xxl-portrait-num-items: 3;
+    --xxl-landscape-num-items: 1;
+    
+    --rs-xs: 576; /* XS <576px */
+    --rs-sm: 576; /* SM ≥576px */
+    --rs-md: 768; /* MD ≥768px */
+    --rs-lg: 992; /* LG ≥992px */
+    --rs-xl: 1200; /* XL ≥1200px */
+    --rs-xxl: 1400; /* XXL ≥1400px */
+
+}
